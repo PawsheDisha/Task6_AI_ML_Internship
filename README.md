@@ -74,13 +74,10 @@ A decision boundary was plotted (for 2 features or using PCA) to visualize how t
 
 **Evaluation Metrics**
 
-Accuracy Score
-
-Confusion Matrix
-
-Accuracy vs K Graph
-
-Decision Boundary Plot
+  -Accuracy Score
+  -Confusion Matrix
+  -Accuracy vs K Graph
+  -Decision Boundary Plot
 
 
 **Conclusion**
