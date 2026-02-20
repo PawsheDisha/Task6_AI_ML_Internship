@@ -22,11 +22,11 @@ To understand and implement the K-Nearest Neighbors (KNN) algorithm for solving 
 
 **Dataset**
 
-The project uses a CSV dataset where:
+  - The project uses a CSV dataset where:
 
-Independent variables are feature columns.
+  - Independent variables are feature columns.
 
-The last column is considered the target (class label).
+  - The last column is considered the target (class label).
 
 
 **Steps Performed**
