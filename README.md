@@ -9,15 +9,15 @@ To understand and implement the K-Nearest Neighbors (KNN) algorithm for solving 
 
 **Tools & Technologies Used**
 
-  -Python
+    -Python
 
-  -Pandas
+    -Pandas
 
-  -NumPy
+    -NumPy
 
-  -Matplotlib
+    -Matplotlib
 
-  -Scikit-learn
+    -Scikit-learn
 
 
 **Dataset**
