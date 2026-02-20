@@ -9,15 +9,15 @@ To understand and implement the K-Nearest Neighbors (KNN) algorithm for solving 
 
 **Tools & Technologies Used**
 
-Python
+  -Python
 
-Pandas
+  -Pandas
 
-NumPy
+  -NumPy
 
-Matplotlib
+  -Matplotlib
 
-Scikit-learn
+  -Scikit-learn
 
 
 **Dataset**
@@ -30,6 +30,7 @@ The last column is considered the target (class label).
 
 
 **Steps Performed**
+
 1️⃣ Import Libraries
 
 Necessary libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn were imported for data handling, visualization, and model building.
